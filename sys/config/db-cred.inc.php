@@ -1,5 +1,5 @@
 <?php 
-
+/*DB config constant*/
 $C = array();
 $C['DB_HOST'] = 'localhost';
 $C['DB_USER'] = 'root';
